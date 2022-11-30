@@ -19,3 +19,12 @@ Main objective of this project is adding new commands without changing any of th
 */commands* => gives you all the commands
 
 */command [commandName]* => gives you details about specified command
+
+# Installation
+`npm i whatsapp-web.js`
+
+`npm i qrcode-terminal`
+
+You can check [here](https://wwebjs.dev/guide/#installation) for detailed installation whatsapp-web.js.
+
+Install [MongoDB](https://www.mongodb.com/docs/manual/installation/).
